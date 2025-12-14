@@ -3,7 +3,7 @@ import './App.css'
 import { Routes, Route } from "react-router-dom";
 
 import Home from './Home';
-import NewRoute from './newRoute';
+import NewRoute from './NewRoute';
 
 function App() {
   const [count, setCount] = useState(0)
